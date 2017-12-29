@@ -1,2 +1,5 @@
-# CNN_TF
-最近几年知名网络在TensorFlow上的快速使用
+# LeetCode
+
+- 1. Two Sum
+	- 数字之和
+- 2. 
